@@ -20,7 +20,7 @@ if(!isset($_SESSION['uid'])){
 
 <?php include('header.php')  ?>
 
-<!-- <div class="container" style="margin-top:100px;">
+<div class="container" style="margin-top:100px!important;">
   <form action="viewallbooking.php" method="post">
     <div class="row">
       <div class="col-lg-3">
@@ -41,7 +41,7 @@ if(!isset($_SESSION['uid'])){
       </div>
     </div>
   </form>
-</div> -->
+</div>
 
 <div class="container">
    
